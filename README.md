@@ -16,3 +16,8 @@ or
 ```sh
 IDE
 ```
+
+## Technologies used:
+- Java
+- Maven
+- jUnit
