@@ -10,7 +10,7 @@ A program that checks and displays prime numbers from a file
 ## Build:
 ```sh
 mvn clean package
-In 'target' package: java -jar PrimeNumberChecker.jar
+In 'target' package: java -jar PrimeNumberChecker.jar data.xlsx (can be run without parameter)
 ```
 or
 ```sh
