@@ -20,4 +20,4 @@ IDE
 ## Technologies used:
 - Java
 - Maven
-- jUnit
+- JUnit
