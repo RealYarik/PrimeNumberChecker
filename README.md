@@ -1,5 +1,5 @@
 # PrimeNumberChecker
-A program that checks and displays prime numbers from a file
+This program checks and displays prime numbers from a file
 
 ## How does the program work?
 | Input | Output |
